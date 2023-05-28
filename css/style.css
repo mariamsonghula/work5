@@ -145,3 +145,34 @@ section{
     color: #535353;
 }
 /* sruldeba meore article  */
+
+
+/* aq iwyeba footer  */
+
+footer{
+    width: 1140;
+    margin:0 auto;
+    background-color: #2A9D8F;
+    padding-inline: 130px;
+    padding-top: 90px;
+    padding-bottom: 198px;
+    margin-top: 200px;
+}
+.footer1, .footer2, .footer3{
+display: inline-block;
+padding-left: 250px;
+
+}
+
+.footerheader{
+    margin-bottom: 21px;
+    font-size: 20px;
+}
+.footerlist{
+ font-size: 18px;
+}
+.footerlist, .footerheader{
+    font-family: 'Poppins', sans-serif; 
+    color: #FFFFFF;
+    font-weight: 500;
+}
