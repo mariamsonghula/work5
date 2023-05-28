@@ -112,3 +112,36 @@ section{
  
 }
 /* aq mtavrdeba seqcia */
+
+/* iwyeba meore article  */
+.article2{
+    display: inline-block;
+    
+ }
+        
+
+.article2header{
+    display: inline-block;
+    text-align: center;
+   padding-top: 175px;
+   padding-right: 435px;
+   padding-left: 490px;
+    padding-bottom: 54px;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 48px;
+    font-weight: 700;
+    color: #4D4D4D;
+}
+.phototext2 ,.phototext3{
+    display: inline-block;
+    padding-left:  60px;
+    
+}
+.textphoto1, .textphoto2{
+    margin-top: 32px;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 24px;
+    font-weight: 500;
+    color: #535353;
+}
+/* sruldeba meore article  */
