@@ -33,3 +33,82 @@ nav{
     color: #2A9D8F;
 }
 /* sruldeba header */
+
+/* iwyeba article */
+article{
+    widows: 1440px;
+    margin: 0 auto;
+}
+.article1{
+    display: inline-block;
+    width: 980px;
+    padding: 200px;
+    margin-inline: 230px;
+
+}
+.articleheader{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 700;
+    font-size: 48px;
+    padding-bottom: 60px;
+    color: #4D4D4D;
+}
+.articletext1, .articletext2{
+    font-family:'Nerko One', cursive;
+    font-size: 20px;
+    font-weight:400;
+    text-align: justify;
+    color: #656565;
+}
+.articletext2{
+  padding-top: 52px;;  
+}
+/* aq sruldeba pirveli article  */
+
+/* iwyeba seqcia */
+
+section{
+    width: 1440px;
+    margin: 0 auto;
+    background-color: #C2F3EE;
+    padding: 80px 148px;
+    vertical-align: top;
+}
+.section1{
+    display: inline-block;
+    width: 460px;
+    padding-left: 105px;
+    text-align: justify;
+    vertical-align: top;
+}
+.fisrtimage{
+    width: 600px;
+    
+}
+.header2{
+    display: inline-block;
+    width: 457px;
+    margin-bottom: 27px;
+    font-size: 32px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+.sectiontext{
+    display: inline-block;
+    font-family:'Poppins', sans-serif; 
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 500;
+    color: #515151;
+
+}
+.button2{
+    margin-top: 45px;
+    margin-bottom: 113px;
+    background-color:  #2A9D8F;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+ 
+}
+/* aq mtavrdeba seqcia */
